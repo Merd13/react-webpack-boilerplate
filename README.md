@@ -21,3 +21,8 @@ npm i babel-core babel-loader babel-preset-env babel-preset-react css-loader htm
 }
 
 # Create webpack.config.js
+
+npm i jest babel-jest enzyme enzyme-adapter-react-16
+
+# create jest config file
+
